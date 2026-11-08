@@ -4,3 +4,7 @@
 
 November 8th 2026
 
+
+
+Курс «Автоматизация тестирования с помощью Selenium и Python» – https://stepik.org/course/575
+
